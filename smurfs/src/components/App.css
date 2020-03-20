@@ -180,8 +180,11 @@ input {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 60px;
+
+  color: #2260b2;
 }
+
 h3 {
   font-size: 20px;
   font-weight: bolder;
